@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Don\'ate</string>
+    <string name="don_ate">DON\'ATE</string>
+    <string name="user_policy">USER POLICY</string>
+    <string name="i_accept_the_policies_issued_above">I accept the policies issued above</string>
+    <string name="proceed">Proceed</string>
+    <string name="enter_your_username">Enter Your Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="phone">Phone</string>
+    <string name="signup">SignUp</string>
+    <string name="signup_page">SIGNUP PAGE</string>
+    <string name="enter_your_phone_number">Enter your Phone Number</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">LOGOUT</string>
+</resources>
